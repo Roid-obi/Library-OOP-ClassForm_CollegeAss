@@ -22,3 +22,7 @@ Website untuk menampilkan dan mengelola menu rumah makan.
 - MySQL
 - Bootstrap 5.3
 - Custom Form Class
+
+## Oleh
+Nama: Roid Robih
+NIM: V3424074
