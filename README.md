@@ -2,6 +2,10 @@
 
 Website untuk menampilkan dan mengelola menu rumah makan.
 
+## Oleh
+- Nama: Roid Robih
+- NIM: V3424074
+
 ## Fitur
 - Daftar menu dengan tampilan card responsive
 - Form tambah menu dengan berbagai tipe input
@@ -23,6 +27,3 @@ Website untuk menampilkan dan mengelola menu rumah makan.
 - Bootstrap 5.3
 - Custom Form Class
 
-## Oleh
-- Nama: Roid Robih
-- NIM: V3424074
