@@ -24,5 +24,5 @@ Website untuk menampilkan dan mengelola menu rumah makan.
 - Custom Form Class
 
 ## Oleh
-Nama: Roid Robih
-NIM: V3424074
+- Nama: Roid Robih
+- NIM: V3424074
